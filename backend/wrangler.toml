@@ -1,0 +1,7 @@
+name = "backend-medium"
+compatibility_date = "2024-06-20"
+
+ [vars]
+ MY_VAR = "my-variable"
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZTBlZjg4NGMtYzhiOC00NDgyLTg5YTQtNjlhMzA1M2M0NThiIiwidGVuYW50X2lkIjoiNTFkMjhmMDk3NjUxNzk0OGRmMmFjNGQ5NDRhMWM3ZGFjNzg1N2VkOTZmYWRjYzQwZjUyMDUxOWQxZmZmZGQ4YyIsImludGVybmFsX3NlY3JldCI6IjlhZWIwYjE4LTUzYjktNGYxNC1hZmIxLTI1YTBkNTgyZmM3NCJ9.jGbRy6sL93ndGDtQszOYeiWOXneNgL3oNKCYx96L6Ec"
+JWT_SECRET = "devesh-secret"
